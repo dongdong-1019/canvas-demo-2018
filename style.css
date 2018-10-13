@@ -12,7 +12,8 @@ ul,ol{list-style: none;}
   }
   
   body{
-    margin: 0px;
+  
+    overflow:hidden
   }
   
   html{
